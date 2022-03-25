@@ -1,5 +1,8 @@
 # Boas dicas relacionadas ao Git e ao Github
 
+## Sincronização
+[Sincronização de repositórios](sincronizacao.md)
+
 ## Dicas que seguirão a de sincronização
 
 - Dicas para criar uma conta no Github
