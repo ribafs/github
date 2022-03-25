@@ -12,7 +12,7 @@ Quando acontecer do Github não mais aceitar senha para sincronizar seus reposit
 - Settings
 - Role a tela e clique em Developer Settings
 - Personal access tokens
-- Genrate new token
+- Generate new token
 - Selecione tudo que deseja controlar
 - E salve
 
