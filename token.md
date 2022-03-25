@@ -1,5 +1,8 @@
 # Criação e uso de token para o Github
 
+## Observação
+Como tive alguma dificuldade para acessar com senha, cheguei a pensar em abandonar o Github por cotna de não mais conseguir atualizar repositórios via git. Refleti e lembrei que não conheço nada similar ao Github. Então fui estudar e trago aqui o resultado de como resolvi. 
+
 ## Criação
 
 Quando acontecer do Github não mais aceitar senha para sincronizar seus repositórios e indicar que em seu lugar deve usar um token, então siga estes passos.
@@ -76,4 +79,8 @@ Everything up-to-date
 Crédito:
 
 https://docs.github.com/pt/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-ssh-to-https
+
+## Sugestões
+
+Sugestões e informações extras serão muito bem vindas.
 
