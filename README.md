@@ -4,7 +4,7 @@
 
 ## [Criação e uso de tokens para o Github](token.md)
 
-## Dicas que seguirão a de sincronização
+## Dicas que seguirão
 
 - Dicas para criar uma conta no Github
 - Dicas para gerenciar repositórios
