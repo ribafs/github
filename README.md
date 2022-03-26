@@ -4,6 +4,12 @@
 
 ## [Criação e uso de tokens para o Github](token.md)
 
+## Branches
+[Sobre branches](branches.md)
+
+## Como criar e usar branches
+[Como criar e usar](criar-branches.md)
+
 ## Dicas que seguirão
 
 - Dicas para criar uma conta no Github
