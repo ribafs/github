@@ -1,6 +1,6 @@
 # Boas dicas relacionadas ao Git e ao Github
 
-## [Sincronização entre repositórios](sincronizacao.md)
+## [Sincronização de repositórios](sincronizacao.md)
 
 ## [Criação e uso de tokens para o Github](token.md)
 
